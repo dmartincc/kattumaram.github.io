@@ -27,7 +27,7 @@ What will you find in your dream report?
 
 We are going to help you to **find solutions to your problems in the meaning of your dreams.**
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdEI0KzLwoll_DRJ7jnGrgCjOiKoxkgn1ABSWket5KE7llwEA/viewform">
+<a href="form">
   <button type="button" class="btn btn-dark">
     Get your dream report for 24.99$
   </button>
