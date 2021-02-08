@@ -11,7 +11,7 @@ You will only need to:
 
 ✍️ Write your dream.
 
-❓ Answer some questions about your stress and personality.
+❓ Answer some questions about yourself.
 
 ⏰ Only takes 5 minutes. 
 
