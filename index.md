@@ -4,10 +4,11 @@
 
 # **🔮 Crystal Dreams**
 
-Dreams are tools from your unconsciousness to help you in your awakening life. 
-By Analysing your dreams, levels of stress and personality you could interpret your dream and find the solutions that you need for your daily life problems.
+Dreams are tools from your unconsciousness to help you find the solutions for your daily life problems. 
 
-You will only need to:
+You can become the hero that your life needs by an advanced anlysis of your dreams, stress and personality. You can achieve it with our dream report.
+
+You only need to:
 
 ✍️ **Write your dream.**
 
@@ -15,7 +16,7 @@ You will only need to:
 
 ⏰ It takes **only 5 minutes**. 
 
-We will recived your dream and carfully analysis it for you. Then you will recieved a personalized report about your dream in your inbox. It takes us about 24 hours.
+We will recieved your dream and carfully analysis it for you. Then you will recieved a personalized report about your dream in your inbox. It takes us about 24 hours.
 
 What will you find in your dream report? 
 
