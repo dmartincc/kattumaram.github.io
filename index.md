@@ -6,7 +6,7 @@ title: Crystal Dreams
 
 Dreams are tools from your unconsciousness to help you find the solutions for your daily life problems. 
 
-You can become the hero that your life needs by an advanced anlysis of your dreams, stress and personality. You can achieve it with our dream report and our expert in dreams.
+You can become the hero that your life needs by an advanced analysis of your dreams, stress and personality. You can achieve it with our dream report and our expert in dreams.
 
 You only need to:
 
@@ -16,7 +16,7 @@ You only need to:
 
 ⏰ It takes **only 5 minutes**. 
 
-We will receive your dream and carfully analyse it for you. Then we will send you a personalized report about your dream. In 24 hours you will have your dream interpretation in your inbox.
+We will receive your dream and carefully analyse it for you. Then we will send you a personalized report about your dream. In 24 hours you will have your dream interpretation in your inbox.
 
 What will you find in your dream report? 
 
