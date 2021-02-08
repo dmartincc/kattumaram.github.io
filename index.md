@@ -21,7 +21,7 @@ What will you find in your dream report?
 
 📈 **A quantitative analysis** with our AI.
 
- 👩‍⚕️️ **A qualitaiteve analysis and interpretation** by our dream expert.
+ 👩‍⚕️️ **A qualitative analysis and interpretation** by our dream expert.
 
 💭 **Questions for you to reflect on your dream.** 
 
