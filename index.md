@@ -33,3 +33,5 @@ We are going to help you to **find solutions to your problems in the meaning of 
     Get your dream report for $24.99
   </button>
 </a>
+
+<sub>* We won't charge you until we will finish our analysis.</sub>
