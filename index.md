@@ -30,6 +30,6 @@ We are going to help you to **find solutions to your problems in the meaning of 
 
 <a href="form">
   <button type="button" class="btn btn-dark">
-    Get your dream report for 24.99$
+    Get your dream report for $24.99
   </button>
 </a>
