@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-url: "https://chernando.github.io/crystal-dreams/"
+url: "https://crystal-dreams.org/"
 baseurl: "/"
 
 permalink: /:title/
 
-title: "Crystal Dreams: Solutions for your awakening life problems."
-description: Crystal Dreams is a new type of dream interpretation based on AI and expert dream interpreters to give you solutions for your awakening life problems."
+title: "Solutions for your awakening life problems."
+description: A new type of dream interpretation based on AI and expert dream interpreters to give you solutions for your awakening life problems."
