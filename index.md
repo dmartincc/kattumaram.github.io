@@ -5,7 +5,7 @@
 # **🔮 Crystal Dreams**
 
 Dreams are tools from your unconsciousness to help you in your awakening life. 
-If you analyse your dreams, levels of stress and personality, you could interpret them and find the solutions that you need for your daily life problems.
+By Analysing your dreams, levels of stress and personality you could interpret your dream and find the solutions that you need for your daily life problems.
 
 You will only need to:
 
@@ -15,14 +15,20 @@ You will only need to:
 
 ⏰ It takes **only 5 minutes**. 
 
-After a very careful process of analysis, our psychoanalyst, expert in dreams, will send you a personalized report to your inbox. It takes about 24 hours.
+We will recived your dream and carfully analysis it for you. Then you will recieved a personalized report about your dream in your inbox. It takes us about 24 hours.
 
-What will you find in your dream report? A quantitative analysis of your dream, interpretation and some questions for you to reflect on your dream. 
+What will you find in your dream report? 
+
+📈 **A quantitative analysis** with our AI.
+
+ 👩‍⚕️️ **A qualitaiteve analysis and interpretation** by our dream expert.
+
+💭 **Questions for you to reflect on your dream.** 
 
 We are going to help you to **find solutions to your problems in the meaning of your dreams.**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEI0KzLwoll_DRJ7jnGrgCjOiKoxkgn1ABSWket5KE7llwEA/viewform">
   <button type="button" class="btn btn-dark">
-    Send us your dream
+    Get your dream report for 24.99$
   </button>
 </a>
