@@ -6,7 +6,7 @@ title: Crystal Dreams
 
 Dreams are tools from your unconsciousness to help you find the solutions for your daily life problems. 
 
-You can become the hero that your life needs by an advanced anlysis of your dreams, stress and personality. You can achieve it with our dream report.
+You can become the hero that your life needs by an advanced anlysis of your dreams, stress and personality. You can achieve it with our dream report and our expert in dreams.
 
 You only need to:
 
