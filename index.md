@@ -16,7 +16,7 @@ You only need to:
 
 ⏰ It takes **only 5 minutes**. 
 
-We will recieve your dream and carfully analyse it for you. Then you will recieve a personalized report about your dream in your inbox. In 24 hours you will have your dream interpretation.
+We will receive your dream and carfully analyse it for you. Then we will send you a personalized report about your dream. In 24 hours you will have your dream interpretation in your inbox.
 
 What will you find in your dream report? 
 
