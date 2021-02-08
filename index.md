@@ -34,4 +34,4 @@ We are going to help you to **find solutions to your problems in the meaning of 
   </button>
 </a>
 
-<sub>* We won't charge you until we will finish our analysis.</sub>
+<sub>* We won't charge you anything until we will finish our analysis.</sub>
