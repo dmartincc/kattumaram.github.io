@@ -10,7 +10,7 @@ Maybe your unconsciousness is trying to tell you something.
 
 Dreams are tools from your unconsciousness to help you find solutions for your daily life problems. 
 
-We can help you analyse it with our AI expert in dream analysis. Scientifically validated.
+We can help you analyse it with our AI expert in dream interpretation. It's scientifically validated.
 
 You only need to:
 
@@ -19,6 +19,8 @@ You only need to:
 ✍️ **Write it down.** 
 
 ✉️ **Send it to us.**
+
+Amazingly easy, no apps to install nor dream dictionaries to look at.
 
 Tap the button below to send your dream and we will get back to you shorthly.
 
