@@ -20,7 +20,7 @@ You only need to:
 
 ✉️ **Send it to us.**
 
-Tap the button below to send your dream now.
+Tap the button below to send your dream and we will get back to you shorthly.
 
 <a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
   <button type="button" class="btn btn-dark">
