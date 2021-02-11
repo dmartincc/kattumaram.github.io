@@ -4,34 +4,25 @@ title: Crystal Dreams
 
 # **🔮 Crystal Dreams**
 
+Do you have a recurrent dream that you don't know what it means and  it's making you scratch your head?
+
 Dreams are tools from your unconsciousness to help you find the solutions for your daily life problems. 
 
-You can become the hero that your life needs by an advanced analysis of your dreams, stress and personality. You can achieve it with our dream report and our expert in dreams.
+We can help you analysis it with our AI expert in dream analysis.
 
 You only need to:
 
-✍️ **Write your dream.**
+🤔 **Reflect on your dream.**
 
-❓ **Answer some stress and personality questions.**
+✍️ **Write it down.** 
 
-⏰ It takes **only 5 minutes**. 
+✉️ **Send your dream to us.**
 
-We will receive your dream and carefully analyse it for you. Then we will send you a personalized report about your dream. In 24 hours you will have your dream interpretation in your inbox.
+Tap the button below to send your dream now.
 
-What will you find in your dream report? 
-
-📈 **A quantitative analysis** with our AI.
-
- 👩‍⚕️️ **A qualitative analysis and interpretation** by our dream expert.
-
-💭 **Questions for you to reflect on your dream.** 
-
-We are going to help you to **find solutions to your problems in the meaning of your dreams.**
-
-<a href="form">
+<a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
   <button type="button" class="btn btn-dark">
-    Get your dream report for $24.99
+    Get your dream interpreted
   </button>
 </a>
 
-<sub>* We won't charge you anything until we will finish our analysis.</sub>
