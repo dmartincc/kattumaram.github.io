@@ -16,13 +16,13 @@ You only need to:
 
 ✍️ **Write it down.** 
 
-✉️ **Send your dream to us.**
+✉️ **Send your it to us.**
 
 Tap the button below to send your dream now.
 
 <a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
   <button type="button" class="btn btn-dark">
-    Get your dream interpretation
+    Get your dream interpretation for free
   </button>
 </a>
 
