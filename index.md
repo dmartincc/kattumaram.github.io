@@ -6,6 +6,8 @@ title: Crystal Dreams
 
 Are you asking to yourself? "what do my dreams mean?"
 
+Maybe your unconsciousness trying to tell you something.
+
 Dreams are tools from your unconsciousness to help you find the solutions for your daily life problems. 
 
 We can help you analysis it with our AI expert in dream analysis.
