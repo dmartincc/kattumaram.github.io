@@ -4,7 +4,7 @@ title: Crystal Dreams
 
 # **🔮 Crystal Dreams**
 
-Do you have a recurrent dream that you don't know what it means and  it's making you scratch your head?
+Are you asking to yourself? "what do my dreams mean?"
 
 Dreams are tools from your unconsciousness to help you find the solutions for your daily life problems. 
 
