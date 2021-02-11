@@ -4,13 +4,13 @@ title: Crystal Dreams
 
 # **🔮 Crystal Dreams**
 
-Are you asking to yourself "what do my dreams mean"?
+## Are you asking to yourself "what do my dreams mean"?
 
 Maybe your unconsciousness is trying to tell you something.
 
 Dreams are tools from your unconsciousness to help you find solutions for your daily life problems. 
 
-We can help you analyse it with our AI expert in dream analysis.
+We can help you analyse it with our AI expert in dream analysis. Scientifically validated.
 
 You only need to:
 
