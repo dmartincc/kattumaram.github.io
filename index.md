@@ -18,7 +18,7 @@ You only need to:
 
 ✍️ **Write it down.** 
 
-✉️ **Send your it to us.**
+✉️ **Send it to us.**
 
 Tap the button below to send your dream now.
 
