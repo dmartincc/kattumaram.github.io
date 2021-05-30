@@ -3,7 +3,6 @@ title: Kattumaran · Paseos en catamarán en Tarifa
 lang: es
 ---
 
-
 ![kattumaram sailing tarifa school](/assets/images/logo-2.png)
 
 Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
@@ -67,7 +66,7 @@ Precio curso: 200€.
 
 Nos puedes encontrar en la playa de Valdevaqueros, Tarifa, en BIBO Watersports, donde puedes contratar directamente nuestros servicios. 
 
-Si te has imaginado surcando las aguas del estrecho, no dudes contactarnos.
+Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
 <a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
   <button type="button" class="btn btn-dark">
