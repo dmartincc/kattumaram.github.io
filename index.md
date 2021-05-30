@@ -1,5 +1,5 @@
 ---
-title: Paseos en catamarán en Tarifa
+title: Kattumaram - Tarifa Sailing School
 lang: es
 ---
 
