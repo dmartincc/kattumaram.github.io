@@ -1,5 +1,5 @@
 ---
-title: Kattumaran · Paseos en catamarán en Tarifa
+title: Paseos en catamarán en Tarifa
 lang: es
 ---
 
