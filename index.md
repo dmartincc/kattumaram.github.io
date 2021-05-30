@@ -44,7 +44,7 @@ Precio paseo: 40€ persona y hora.
 
 ![catamaran niños tarifa](/assets/images/kids.jpeg){: class="img-responsive" width="100%"}
 
-Perfecto para cualquiera que quiera tener una iniciación en la navegación de un catamarán. No te imaginas lo que que lo disfrutarás.
+Perfecto para cualquiera que quiera tener una iniciación en la navegación de un catamarán. No te imaginas lo que lo disfrutarás.
 
 Curso de 6 horas.
 
