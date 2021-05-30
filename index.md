@@ -3,15 +3,15 @@ title: Paseos en catamarán en Tarifa
 lang: es
 ---
 
-![kattumaram sailing tarifa school](/assets/images/logo-2.png)
+![kattumaram sailing tarifa school](/assets/images/logo-2.png){: class="img-responsive" width="100%"}
 
 <iframe width="100%"  src="https://www.youtube.com/embed/wnnz8vdHqDc?autoplay=1&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
 
-En Kattumaram solo tenemos un objetivo. Ayudarte a sentirte libre mientras navegas en las playas de Tarifa en uno de nuestros catamaranes.
+En Kattumaram solo tenemos un objetivo. Ayudarte a sentirte libre mientras navegas en las playas de Tarifa en uno de nuestros tres catamaranes.
 
-![catamaran barco tarifa](/assets/images/boat.jpeg)
+![catamaran barco tarifa](/assets/images/boat.jpeg){: class="img-responsive" width="100%"}
 
 <br>
 
@@ -23,7 +23,7 @@ Tenemos varias opciones para que disfrutes de las aguas y del viento de Tarifa m
 
 ### **Paseo en catamarán en Tarifa**
 
-![catamaran familia tarifa](/assets/images/boat_family.jpeg)
+![catamaran familia tarifa](/assets/images/boat_family.jpeg){: class="img-responsive" width="100%"}
 
 Perfecto para parejas, familias y grupos de amigos. Sorpréndelos.
 
@@ -42,7 +42,7 @@ Precio paseo: 40€ persona y hora.
 
 ### **Curso de navegación en catamarán en Tarifa**
 
-![catamaran niños tarifa](/assets/images/kids.jpeg)
+![catamaran niños tarifa](/assets/images/kids.jpeg){: class="img-responsive" width="100%"}
 
 Perfecto para cualquiera que quiera tener una iniciación en la navegación de un catamarán. No te imaginas lo que que lo disfrutarás.
 
@@ -76,11 +76,11 @@ Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
 <br>
 
-![kattumaram tarifa barco](/assets/images/team.jpeg)
+![kattumaram tarifa barco](/assets/images/team.jpeg){: class="img-responsive" width="100%"}
 
-![kattumaram tarifa barco](/assets/images/team_boat.jpeg)
+![kattumaram tarifa barco](/assets/images/team_boat.jpeg){: class="img-responsive" width="100%"}
 
-![kattumaram tarifa barco](/assets/images/boat_beach.jpeg)
+![kattumaram tarifa barco](/assets/images/boat_beach.jpeg){: class="img-responsive" width="100%"}
 
 <br>
 
