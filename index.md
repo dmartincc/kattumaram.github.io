@@ -5,7 +5,9 @@ lang: es
 
 ![kattumaram sailing tarifa school](/assets/images/logo-2.png){: class="img-responsive" width="100%"}
 
-<iframe width="100%"  src="https://www.youtube.com/embed/wnnz8vdHqDc?autoplay=1&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="100%" class="embed-responsive-item" src="https://www.youtube.com/embed/wnnz8vdHqDc?autoplay=1&cc_load_policy=1"></iframe>
+</div>
 
 Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
 
