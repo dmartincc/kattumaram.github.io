@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-url: "https://dmartincc.com/"
+url: "https://dmartincc.com"
 baseurl: "/"
 
 permalink: /:title/
