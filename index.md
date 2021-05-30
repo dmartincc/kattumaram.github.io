@@ -5,6 +5,8 @@ lang: es
 
 ![kattumaram sailing tarifa school](/assets/images/logo-2.png)
 
+<iframe width="100%"  src="https://www.youtube.com/embed/wnnz8vdHqDc?autoplay=1&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
 
 En Kattumaram solo tenemos un objetivo. Ayudarte a sentirte libre mientras navegas en las playas de Tarifa en uno de nuestros catamaranes.
@@ -61,8 +63,6 @@ Precio curso: 200€.
 ## **Dónde puedes navegar un catamarán en Tarifa**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12900.255775060012!2d-5.6847073!3d36.0675444!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9de219abb6d0b29d!2sBIBO%20Watersports!5e0!3m2!1sen!2ses!4v1622299827335!5m2!1sen!2ses" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-<br>
 
 Nos puedes encontrar en la playa de Valdevaqueros, Tarifa, en BIBO Watersports, donde puedes contratar directamente nuestros servicios. 
 
