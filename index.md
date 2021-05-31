@@ -33,7 +33,7 @@ Mínimo 1 hora y 2 personas, máximo 9 personas.
 
 Precio paseo: 40€ persona y hora.
 
-<a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
+<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
     Quiero mi paseo en catamarán
   </button>
@@ -52,7 +52,7 @@ Curso de 6 horas.
 
 Precio curso: 200€.
 
-<a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
+<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
     Quiero mi curso en catamarán
   </button>
@@ -70,9 +70,9 @@ Nos puedes encontrar en la playa de Valdevaqueros, Tarifa, en BIBO Watersports, 
 
 Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
-<a href="https://gbv72db7eem.typeform.com/to/bSGnUlg7">
+<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
-    Contáctanos
+    Contrata tu experiencia
   </button>
 </a>
 
