@@ -29,13 +29,32 @@ Tenemos varias opciones para que disfrutes de las aguas y del viento de Tarifa m
 
 Perfecto para parejas, familias y grupos de amigos. Sorpréndelos.
 
-Mínimo 1 hora y 2 personas, máximo 9 personas. 
+Mínimo 1 hora y 2 personas, máximo 9 personas. Edad mínima 6 años.
 
 Precio paseo: 40€ persona y hora.
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
     Quiero mi paseo en catamarán
+  </button>
+</a>
+
+<br>
+<br>
+
+### **Navegación extrema en catamarán en Tarifa**
+
+![catamaran familia tarifa](/assets/images/boat_sport.jpeg){: class="img-responsive" width="100%"}
+
+Perfecto para personas que les gusta la velocidad. Pondremos nuestro catamarán a mil por hora.
+
+Mínimo 1 hora y 2 personas, máximo 9 personas. Necesario estar en forma.
+
+Precio paseo: 40€ persona y hora.
+
+<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+  <button type="button" class="btn btn-dark">
+    Quiero mi navegación extrema
   </button>
 </a>
 
