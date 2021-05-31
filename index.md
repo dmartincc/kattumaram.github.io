@@ -1,5 +1,6 @@
 ---
 title: Kattumaram - Tarifa Sailing School
+description: Disfruta de un paseo en catamarán en Tarifa.
 lang: es
 ---
 

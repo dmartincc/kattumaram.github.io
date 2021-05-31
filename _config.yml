@@ -2,6 +2,12 @@ theme: jekyll-theme-minimal
 url: "https://kattumaramtarifa.com"
 baseurl: "/"
 
+languages: ["es", "en"]
+defaultLang: es
+languageNames:
+  es: Español
+  en: English
+
 permalink: /:title/
 
 title: "Kattumaram - Tarifa Sailing School"
