@@ -33,7 +33,7 @@ Perfect for couples, families and groups of friends. Surprise them.
 
 Minimum 1 hour and 2 people, maximum 9 people. Minimum age 6 years old.
 
-Price ride: 40 € person and hour.
+Price ride: 40 € per person and hour.
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
@@ -52,7 +52,7 @@ Perfect for people who love speed. We will put our catamaran at a thousand per h
 
 Minimum 1 hour and 2 people, maximum 9 people. It is necessary to be in good shape.
 
-Price of the ride: 40€ person and hour.
+Price of the ride: 40€ per person and hour.
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
@@ -71,7 +71,7 @@ Perfect for anyone who wants to have an initiation in sailing a catamaran. You c
 
 Course of 6 hours.
 
-Course price: 200€.
+Course price: 200€ per person.
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">

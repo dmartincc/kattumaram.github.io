@@ -1,10 +1,9 @@
-
-var language = navigator.language || navigator.browserLanguage;
-
-// alert(language);
-
-// if (language.indexOf('es') > -1) {
-//   document.location.href = 'http://kattumaramtarifa.com/';
-// } else {
-//   document.location.href = 'http://kattumaramtarifa.com/en';
-// }
+$(document).ready(function(){
+  var current = window.location.pathname;
+  var userLang = navigator.language || navigator.userLanguage;
+  if(current == "/"){
+    if (userLang.slice(0, 2) != "es"){
+      window.location.href = "/en"
+    }
+  }
+});
