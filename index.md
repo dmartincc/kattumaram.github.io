@@ -107,18 +107,6 @@ Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 <br>
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-  $(document).ready(function(){
-    var userLang = navigator.language || navigator.userLanguage;
-    console.log(userLang)
-    if (userLang == "es") {
-
-    } else {
-      window.location.href = "/en"
-    }
-  });
-</script>
 
 
 
