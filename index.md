@@ -30,9 +30,9 @@ Tenemos varias opciones para que disfrutes de las aguas y del viento de Tarifa m
 
 Perfecto para parejas, familias y grupos de amigos. Sorpréndelos.
 
-Mínimo 1 hora y 2 personas, máximo 9 personas. Edad mínima 6 años.
+Edad mínima 6 años.
 
-Precio paseo: 40€ persona y hora.
+Paseo en catamarán: 40€/hora (Mínimo dos personas)
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
@@ -49,9 +49,9 @@ Precio paseo: 40€ persona y hora.
 
 Perfecto para personas que les gusta la velocidad. Pondremos nuestro catamarán a mil por hora.
 
-Mínimo 1 hora y 2 personas, máximo 9 personas. Necesario estar en forma.
+Necesario estar en forma.
 
-Precio paseo: 40€ persona y hora.
+Navegación extrema en catamarán: 40€/hora (Mínimo dos personas)
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
@@ -68,9 +68,11 @@ Precio paseo: 40€ persona y hora.
 
 Perfecto para cualquiera que quiera tener una iniciación en la navegación de un catamarán. No te imaginas lo que lo disfrutarás.
 
-Curso de 6 horas.
+Curso catamarán en grupo (6 horas) 2/3 alumnos: 260€
 
-Precio curso: 200€.
+Curso catamarán privado (6 horas) 1 solo alumno: 480€
+
+Clase privada de catamarán 1 solo alumno: 100€/hora
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
