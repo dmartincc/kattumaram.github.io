@@ -28,11 +28,13 @@ Tenemos varias opciones para que disfrutes de las aguas y del viento de Tarifa m
 
 ![catamaran familia tarifa](/assets/images/boat_family.jpeg){: class="img-responsive" width="100%"}
 
-Perfecto para parejas, familias y grupos de amigos. Sorpréndelos.
+Perfecto para parejas, familias, grupos de amigos o despedidas de solteros. Sorpréndelos.
 
 Edad mínima 6 años.
 
 Paseo en catamarán: 40€/hora (Mínimo dos personas)
+
+Alquiler del catamarán: 100€/hora (Sin instructor, te supervisará desde la playa)
 
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
@@ -83,7 +85,6 @@ Clase privada de catamarán 1 solo alumno: 100€/hora
 <br>
 <br>
 
-
 ## **Dónde puedes navegar un catamarán en Tarifa**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12900.255775060012!2d-5.6847073!3d36.0675444!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9de219abb6d0b29d!2sBIBO%20Watersports!5e0!3m2!1sen!2ses!4v1622299827335!5m2!1sen!2ses" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -94,7 +95,7 @@ Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
-    Contrata tu experiencia
+    Alquila tu catamarán
   </button>
 </a>
 
