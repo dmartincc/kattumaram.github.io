@@ -35,7 +35,7 @@ Minimum 1 hour and 2 people, maximum 9 people. Minimum age 6 years old.
 
 Catamaran ride: 40€/hour (Minimum two people)
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     I want my catamaran ride
   </button>
@@ -54,7 +54,7 @@ It is necessary to be in good shape.
 
 Extreme catamaran sailing: 40€/hour (Minimum two people)
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     I want my extreme sailing
   </button>
@@ -75,7 +75,7 @@ Private catamaran sailing course (6 hours) 1 student: 480€
 
 Private catamaran sailing lesson 1 student only: 100€/hour
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     I want my catamaran course
   </button>

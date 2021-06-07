@@ -34,7 +34,7 @@ Edad mínima 6 años.
 
 Paseo en catamarán: 40€/hora (Mínimo dos personas)
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     Quiero mi paseo en catamarán
   </button>
@@ -53,7 +53,7 @@ Necesario estar en forma.
 
 Navegación extrema en catamarán: 40€/hora (Mínimo dos personas)
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     Quiero mi navegación extrema
   </button>
@@ -74,7 +74,7 @@ Curso catamarán privado (6 horas) 1 solo alumno: 480€
 
 Clase privada de catamarán 1 solo alumno: 100€/hora
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     Quiero mi curso en catamarán
   </button>
@@ -92,7 +92,7 @@ Nos puedes encontrar en la playa de Valdevaqueros, Tarifa, en BIBO Watersports, 
 
 Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
-<a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
+<a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     Contrata tu experiencia
   </button>
