@@ -98,7 +98,7 @@ If you have imagined yourself surfing the waters of the strait. Do not hesitate 
 
 <a href="https://socialmedia638083.typeform.com/to/YcuDK5zW">
   <button type="button" class="btn btn-dark">
-    Rent your catamaran ride
+    Get in touch
   </button>
 </a>
 

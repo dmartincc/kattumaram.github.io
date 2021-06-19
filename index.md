@@ -96,7 +96,7 @@ Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
-    Alquila tu catamarán
+    Contacta con nosotros
   </button>
 </a>
 
