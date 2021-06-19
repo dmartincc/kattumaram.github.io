@@ -7,8 +7,8 @@ lang: es
 
 ![kattumaram sailing tarifa school](/assets/images/logo-2.png){: class="img-responsive" width="100%"}
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="100%" class="embed-responsive-item" src="https://www.youtube.com/embed/wnnz8vdHqDc?autoplay=1&cc_load_policy=1"></iframe>
+<div class="video-container">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bq_Iw0Wyqlg"></iframe>
 </div>
 
 Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
@@ -102,11 +102,12 @@ Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
 <br>
 
+## **Galería de fotos**
+
 ![kattumaram tarifa barco](/assets/images/team.jpeg){: class="img-responsive" width="100%"}
 
 ![kattumaram tarifa barco](/assets/images/team_boat.jpeg){: class="img-responsive" width="100%"}
 
-![kattumaram tarifa barco](/assets/images/boat_beach.jpeg){: class="img-responsive" width="100%"}
 
 <br>
 
