@@ -46,7 +46,7 @@ Alquiler del catamarán: 100€/hora (Sin instructor, te supervisará desde la p
 <br>
 <br>
 
-### **Navegación extrema en catamarán en Tarifa**
+### **Navegación deportiva en catamarán en Tarifa**
 
 ![catamaran familia tarifa](/assets/images/boat_sport.jpeg){: class="img-responsive" width="100%"}
 
@@ -58,7 +58,7 @@ Navegación extrema en catamarán: 40€/hora (Mínimo dos personas)
 
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
-    Quiero mi navegación extrema
+    Quiero mi navegación deportiva
   </button>
 </a>
 

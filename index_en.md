@@ -47,7 +47,7 @@ Catamaran rental: 100€/hora (Without instructor, she will be supervising you f
 <br>
 <br>
 
-### **Extreme catamaran sailing in Tarifa**
+### **Catamaran sport sailing in Tarifa**
 
 ![catamaran sport tarifa](/assets/images/boat_sport.jpeg){: class="img-responsive" width="100%"}
 
@@ -59,7 +59,7 @@ Extreme catamaran sailing: 40€/hour (Minimum two people)
 
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
-    I want my extreme sailing
+    I want my sport sailing
   </button>
 </a>
 
