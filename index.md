@@ -11,13 +11,11 @@ lang: es
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-IgfzU9bWJE"></iframe>
 </div>
 
-<br>
+Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
 
 <div class="video-container">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dCEIkm130SY"></iframe>
 </div>
-
-Imagínate que estás navegando a la luz de un atardecer mágico y sintiendo la brisa marina en tu cara. Ese momento se convierte en eternidad. No querrás que termine.
 
 En Kattumaram solo tenemos un objetivo. Ayudarte a sentirte libre mientras navegas en las playas de Tarifa en uno de nuestros tres catamaranes.
 

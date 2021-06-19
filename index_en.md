@@ -12,13 +12,11 @@ permalink: /en/
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-IgfzU9bWJE"></iframe>
 </div>
 
-<br>
+Imagine you are sailing in the light of a magical sunset and feeling the sea breeze on your face. That moment becomes eternity. You don't want it to end.
 
 <div class="video-container">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dCEIkm130SY"></iframe>
 </div>
-
-Imagine you are sailing in the light of a magical sunset and feeling the sea breeze on your face. That moment becomes eternity. You don't want it to end.
 
 At Kattumaram we have only one goal. To help you feel free while sailing on the beaches of Tarifa in one of our three catamarans.
 
