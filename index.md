@@ -5,6 +5,8 @@ lang: es
 ---
 {% include navbar_es.html %}
 
+
+
 ![kattumaram sailing tarifa school](/assets/images/logo-2.png){: class="img-responsive" width="100%"}
 
 <div class="video-container">
@@ -117,12 +119,3 @@ Si te has imaginado surcando las aguas del estrecho. No dudes contactarnos.
 
 <br>
 
-
-
-
-
-
-
-
-    
-  
