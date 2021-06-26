@@ -43,8 +43,6 @@ Edad mínima 6 años.
 
 Paseo en catamarán: 40€/hora (Mínimo dos personas)
 
-Alquiler del catamarán: 100€/hora (Sin instructor, te supervisará desde la playa)
-
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     Quiero mi paseo en catamarán

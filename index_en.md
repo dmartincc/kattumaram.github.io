@@ -42,8 +42,6 @@ Minimum 1 hour and 2 people, maximum 9 people. Minimum age 6 years old.
 
 Catamaran ride: 40€/hour (Minimum two people)
 
-Catamaran rental: 100€/hora (Without instructor, she will be supervising you from the beach)
-
 <a href="https://forms.gle/yTxbrQcy8sRcm7cw7">
   <button type="button" class="btn btn-dark">
     I want my catamaran ride
